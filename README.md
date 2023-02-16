@@ -1,5 +1,5 @@
-# NLP_Disaster_Tweets_Classification
-How Can Natural Language Processing Support Emergency Management? NLP for Classification of Tweets During Crisis-Events
+
+# How Can Natural Language Processing Support Emergency Management? NLP for Classification of Tweets During Crisis-Events
 
 Social media has become an increasingly important source of information for
 emergency services during disasters. In this project, we analyze and compare
